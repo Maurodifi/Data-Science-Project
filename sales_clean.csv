@@ -1,0 +1,121 @@
+order_id,date,store,product,category,gender,unit_price,quantity,discount_pct,payment_method,revenue
+SO43690,2025-01-01,Patio Bullrich,Mountain-100 Silver,Mountain,Unisex,34355.04,1,0.1,Tarjeta,30919.54
+SO43691,2025-01-02,Caballito,Touring-3000 Yellow,Road,Mujer,23491.66,5,0.1,Efectivo,105712.47
+SO43692,2025-01-03,Devoto,Mountain-200 Blue,Mountain,Mujer,59973.02,5,0.0,Transferencia,299865.1
+SO43693,2025-01-04,Caballito,Road-650 Black,Road,Hombre,87292.49,2,0.0,Tarjeta,174584.98
+SO43694,2025-01-05,Caballito,Road-150 Red,Road,Hombre,21110.33,1,0.0,Tarjeta,21110.33
+SO43695,2025-01-06,Alto Palermo,Touring-3000 Yellow,Road,Unisex,111097.44,2,0.0,Tarjeta,222194.88
+SO43696,2025-01-07,Devoto,Mountain-200 Blue,Mountain,Mujer,61446.98,3,0.15,Tarjeta,156689.8
+SO43697,2025-01-08,Devoto,Touring-3000 Yellow,Road,Unisex,40177.67,2,0.1,Efectivo,72319.81
+SO43698,2025-01-09,Devoto,Mountain-200 Blue,Mountain,Unisex,24856.7,2,0.2,Tarjeta,39770.72
+SO43699,2025-01-10,Caballito,Mountain-200 Blue,Mountain,Unisex,34200.93,5,0.2,Tarjeta,136803.72
+SO43700,2025-01-11,Patio Bullrich,Road-650 Black,Road,Hombre,113134.47,5,0.05,Tarjeta,537388.73
+SO43701,2025-01-12,Devoto,Mountain-200 Blue,Mountain,Hombre,82018.41,5,0.1,Tarjeta,369082.84
+SO43702,2025-01-13,Caballito,Touring-3000 Yellow,Road,Hombre,69253.11,3,0.15,Efectivo,176595.43
+SO43703,2025-01-14,Alto Palermo,Mountain-200 Blue,Mountain,Mujer,83996.69,5,0.1,Tarjeta,377985.11
+SO43704,2025-01-15,Patio Bullrich,Road-650 Black,Road,Unisex,60745.65,1,0.0,Tarjeta,60745.65
+SO43705,2025-01-16,Alto Palermo,Road-650 Black,Road,Unisex,91654.13,4,0.0,Tarjeta,366616.52
+SO43706,2025-01-17,Patio Bullrich,Touring-3000 Yellow,Road,Mujer,20010.19,1,0.0,Tarjeta,20010.19
+SO43707,2025-01-18,Caballito,Mountain-100 Silver,Mountain,Mujer,74433.91,1,0.2,Tarjeta,59547.13
+SO43708,2025-01-19,Alcorta,Mountain-100 Silver,Mountain,Hombre,31657.88,5,0.05,Transferencia,150374.93
+SO43709,2025-01-20,Patio Bullrich,Mountain-200 Blue,Mountain,Mujer,27617.29,4,0.0,Tarjeta,110469.16
+SO43710,2025-01-21,Alto Palermo,Road-150 Red,Road,Unisex,50897.37,4,0.05,Efectivo,193410.01
+SO43711,2025-01-22,Caballito,Mountain-200 Blue,Mountain,Mujer,24638.9,4,0.05,Efectivo,93627.82
+SO43712,2025-01-23,Patio Bullrich,Touring-3000 Yellow,Road,Mujer,24886.48,3,0.0,Efectivo,74659.44
+SO43713,2025-01-24,Alcorta,Touring-3000 Yellow,Road,Hombre,47698.4,5,0.0,Efectivo,238492.0
+SO43714,2025-01-25,Alcorta,Touring-3000 Yellow,Road,Mujer,117848.61,4,0.05,Efectivo,447824.72
+SO43715,2025-01-26,Devoto,Touring-3000 Yellow,Road,Mujer,33409.68,3,0.0,Efectivo,100229.04
+SO43716,2025-01-27,Devoto,Touring-3000 Yellow,Road,Hombre,16801.92,2,0.1,Tarjeta,30243.46
+SO43717,2025-01-28,Alto Palermo,Road-650 Black,Road,Hombre,95153.26,2,0.0,Efectivo,190306.52
+SO43718,2025-01-29,Patio Bullrich,Mountain-100 Silver,Mountain,Mujer,99725.86,3,0.15,Transferencia,254300.94
+SO43719,2025-01-30,Patio Bullrich,Touring-3000 Yellow,Road,Hombre,51361.95,3,0.05,Efectivo,146381.56
+SO43720,2025-01-31,Devoto,Road-150 Red,Road,Hombre,63790.75,5,0.05,Tarjeta,303006.06
+SO43721,2025-02-01,Patio Bullrich,Road-150 Red,Road,Hombre,83226.24,5,0.15,Tarjeta,353711.52
+SO43722,2025-02-02,Patio Bullrich,Road-150 Red,Road,Mujer,20046.19,2,0.0,Transferencia,40092.38
+SO43723,2025-02-03,Alcorta,Road-150 Red,Road,Hombre,114660.3,4,0.0,Efectivo,458641.2
+SO43724,2025-02-04,Devoto,Road-650 Black,Road,Unisex,108101.44,2,0.0,Tarjeta,216202.88
+SO43725,2025-02-05,Caballito,Road-150 Red,Road,Hombre,42393.83,4,0.1,Transferencia,152617.79
+SO43726,2025-02-06,Devoto,Touring-3000 Yellow,Road,Unisex,16606.98,4,0.05,Transferencia,63106.52
+SO43727,2025-02-07,Caballito,Mountain-200 Blue,Mountain,Mujer,113010.81,5,0.1,Tarjeta,508548.65
+SO43728,2025-02-08,Alcorta,Road-150 Red,Road,Mujer,67609.19,1,0.0,Tarjeta,67609.19
+SO43729,2025-02-09,Alto Palermo,Road-650 Black,Road,Hombre,71634.63,1,0.0,Efectivo,71634.63
+SO43730,2025-02-10,Patio Bullrich,Road-650 Black,Road,Hombre,86816.2,3,0.0,Tarjeta,260448.6
+SO43731,2025-02-11,Alcorta,Road-150 Red,Road,Unisex,79664.37,5,0.0,Transferencia,398321.85
+SO43732,2025-02-12,Patio Bullrich,Mountain-200 Blue,Mountain,Mujer,114108.62,4,0.05,Tarjeta,433612.76
+SO43733,2025-02-13,Alto Palermo,Road-150 Red,Road,Hombre,114146.42,1,0.0,Tarjeta,114146.42
+SO43734,2025-02-14,Alto Palermo,Road-650 Black,Road,Hombre,106055.89,4,0.0,Tarjeta,424223.56
+SO43735,2025-02-15,Alcorta,Mountain-100 Silver,Mountain,Hombre,81822.38,1,0.15,Tarjeta,69549.02
+SO43736,2025-02-16,Alto Palermo,Touring-3000 Yellow,Road,Mujer,99099.68,1,0.0,Efectivo,99099.68
+SO43737,2025-02-17,Caballito,Road-650 Black,Road,Unisex,86102.68,1,0.0,Tarjeta,86102.68
+SO43738,2025-02-18,Alto Palermo,Road-150 Red,Road,Hombre,75203.54,5,0.1,Tarjeta,338415.93
+SO43739,2025-02-19,Patio Bullrich,Touring-3000 Yellow,Road,Mujer,28492.54,2,0.0,Tarjeta,56985.08
+SO43740,2025-02-20,Patio Bullrich,Road-150 Red,Road,Unisex,100176.44,4,0.05,Efectivo,380670.47
+SO43741,2025-02-21,Patio Bullrich,Road-150 Red,Road,Hombre,101167.14,5,0.15,Efectivo,429960.34
+SO43742,2025-02-22,Patio Bullrich,Mountain-100 Silver,Mountain,Unisex,80723.67,5,0.15,Tarjeta,343075.6
+SO43743,2025-02-23,Caballito,Touring-3000 Yellow,Road,Mujer,101144.82,5,0.0,Tarjeta,505724.1
+SO43744,2025-02-24,Devoto,Touring-3000 Yellow,Road,Hombre,83405.9,5,0.15,Tarjeta,354475.08
+SO43745,2025-02-25,Alcorta,Mountain-100 Silver,Mountain,Hombre,36701.86,5,0.0,Efectivo,183509.3
+SO43746,2025-02-26,Patio Bullrich,Road-650 Black,Road,Unisex,43765.92,3,0.0,Tarjeta,131297.76
+SO43747,2025-02-27,Alto Palermo,Road-150 Red,Road,Mujer,37531.86,4,0.0,Tarjeta,150127.44
+SO43748,2025-02-28,Patio Bullrich,Mountain-200 Blue,Mountain,Mujer,54612.2,5,0.2,Efectivo,218448.8
+SO43749,2025-03-01,Alto Palermo,Road-150 Red,Road,Mujer,19091.13,4,0.0,Tarjeta,76364.52
+SO43750,2025-03-02,Alto Palermo,Road-150 Red,Road,Mujer,79916.66,3,0.0,Efectivo,239749.98
+SO43751,2025-03-03,Patio Bullrich,Road-650 Black,Road,Hombre,50338.19,3,0.05,Efectivo,143463.84
+SO43752,2025-03-04,Caballito,Road-150 Red,Road,Mujer,83850.88,4,0.0,Transferencia,335403.52
+SO43753,2025-03-05,Alto Palermo,Mountain-100 Silver,Mountain,Mujer,55466.65,1,0.0,Tarjeta,55466.65
+SO43754,2025-03-06,Alto Palermo,Mountain-100 Silver,Mountain,Hombre,86569.44,2,0.0,Tarjeta,173138.88
+SO43755,2025-03-07,Patio Bullrich,Touring-3000 Yellow,Road,Unisex,50765.58,1,0.0,Tarjeta,50765.58
+SO43756,2025-03-08,Alto Palermo,Mountain-200 Blue,Mountain,Mujer,42372.93,1,0.0,Tarjeta,42372.93
+SO43757,2025-03-09,Alto Palermo,Road-150 Red,Road,Mujer,67083.93,1,0.0,Tarjeta,67083.93
+SO43758,2025-03-10,Patio Bullrich,Road-150 Red,Road,Hombre,87753.49,5,0.05,Tarjeta,416829.08
+SO43759,2025-03-11,Patio Bullrich,Road-650 Black,Road,Mujer,51575.34,3,0.0,Tarjeta,154726.02
+SO43760,2025-03-12,Alcorta,Mountain-100 Silver,Mountain,Mujer,113348.06,1,0.0,Tarjeta,113348.06
+SO43761,2025-03-13,Caballito,Mountain-200 Blue,Mountain,Mujer,19114.56,3,0.15,Tarjeta,48742.13
+SO43762,2025-03-14,Caballito,Touring-3000 Yellow,Road,Mujer,58884.33,4,0.0,Transferencia,235537.32
+SO43763,2025-03-15,Alto Palermo,Mountain-100 Silver,Mountain,Hombre,116595.96,2,0.05,Tarjeta,221532.32
+SO43764,2025-03-16,Caballito,Touring-3000 Yellow,Road,Mujer,72537.05,4,0.0,Transferencia,290148.2
+SO43765,2025-03-17,Alto Palermo,Road-650 Black,Road,Hombre,59464.45,4,0.0,Efectivo,237857.8
+SO43766,2025-03-18,Alcorta,Road-650 Black,Road,Hombre,74694.63,5,0.0,Tarjeta,373473.15
+SO43767,2025-03-19,Patio Bullrich,Road-150 Red,Road,Mujer,75472.08,2,0.0,Transferencia,150944.16
+SO43768,2025-03-20,Patio Bullrich,Mountain-200 Blue,Mountain,Mujer,91823.01,4,0.0,Efectivo,367292.04
+SO43769,2025-03-21,Patio Bullrich,Touring-3000 Yellow,Road,Mujer,28407.42,4,0.0,Efectivo,113629.68
+SO43770,2025-03-22,Caballito,Mountain-100 Silver,Mountain,Hombre,41251.73,2,0.0,Tarjeta,82503.46
+SO43771,2025-03-23,Alcorta,Road-650 Black,Road,Mujer,75957.12,2,0.0,Tarjeta,151914.24
+SO43772,2025-03-24,Caballito,Road-150 Red,Road,Mujer,106047.24,4,0.0,Tarjeta,424188.96
+SO43773,2025-03-25,Caballito,Road-150 Red,Road,Hombre,73996.0,2,0.0,Efectivo,147992.0
+SO43774,2025-03-26,Alcorta,Touring-3000 Yellow,Road,Mujer,40052.67,4,0.0,Tarjeta,160210.68
+SO43775,2025-03-27,Alcorta,Road-650 Black,Road,Mujer,86383.7,4,0.0,Efectivo,345534.8
+SO43776,2025-03-28,Alcorta,Mountain-200 Blue,Mountain,Mujer,92690.42,5,0.05,Efectivo,440279.49
+SO43777,2025-03-29,Alcorta,Road-650 Black,Road,Mujer,40014.8,1,0.0,Efectivo,40014.8
+SO43778,2025-03-30,Patio Bullrich,Touring-3000 Yellow,Road,Unisex,54661.53,4,0.1,Tarjeta,196781.51
+SO43779,2025-03-31,Devoto,Touring-3000 Yellow,Road,Mujer,71104.38,3,0.05,Tarjeta,202647.48
+SO43780,2025-04-01,Devoto,Road-650 Black,Road,Hombre,67138.93,1,0.0,Tarjeta,67138.93
+SO43781,2025-04-02,Alcorta,Touring-3000 Yellow,Road,Mujer,55909.9,1,0.15,Tarjeta,47523.42
+SO43782,2025-04-03,Devoto,Road-650 Black,Road,Hombre,46251.69,1,0.15,Transferencia,39313.94
+SO43783,2025-04-04,Devoto,Mountain-100 Silver,Mountain,Mujer,25498.41,5,0.0,Tarjeta,127492.05
+SO43784,2025-04-05,Alcorta,Road-650 Black,Road,Mujer,20615.96,4,0.0,Tarjeta,82463.84
+SO43785,2025-04-06,Devoto,Road-650 Black,Road,Unisex,115646.86,5,0.1,Tarjeta,520410.87
+SO43786,2025-04-07,Caballito,Touring-3000 Yellow,Road,Hombre,103950.03,4,0.1,Tarjeta,374220.11
+SO43787,2025-04-08,Alto Palermo,Touring-3000 Yellow,Road,Unisex,52265.04,5,0.0,Tarjeta,261325.2
+SO43788,2025-04-09,Alto Palermo,Road-150 Red,Road,Mujer,115464.09,5,0.0,Tarjeta,577320.45
+SO43789,2025-04-10,Alcorta,Road-150 Red,Road,Mujer,86060.84,3,0.0,Tarjeta,258182.52
+SO43790,2025-04-11,Patio Bullrich,Mountain-100 Silver,Mountain,Mujer,65664.7,5,0.0,Tarjeta,328323.5
+SO43791,2025-04-12,Alcorta,Road-150 Red,Road,Hombre,66767.69,2,0.05,Efectivo,126858.61
+SO43792,2025-04-13,Patio Bullrich,Road-650 Black,Road,Mujer,23744.86,3,0.0,Transferencia,71234.58
+SO43793,2025-04-14,Alto Palermo,Touring-3000 Yellow,Road,Hombre,24628.94,5,0.0,Tarjeta,123144.7
+SO43794,2025-04-15,Alcorta,Road-150 Red,Road,Mujer,78256.3,1,0.1,Tarjeta,70430.67
+SO43795,2025-04-16,Caballito,Road-150 Red,Road,Unisex,73138.82,2,0.0,Transferencia,146277.64
+SO43796,2025-04-17,Devoto,Mountain-100 Silver,Mountain,Hombre,37336.43,2,0.0,Tarjeta,74672.86
+SO43797,2025-04-18,Patio Bullrich,Mountain-100 Silver,Mountain,Hombre,114350.43,2,0.1,Efectivo,205830.77
+SO43798,2025-04-19,Devoto,Road-650 Black,Road,Mujer,97036.09,3,0.15,Transferencia,247442.03
+SO43799,2025-04-20,Devoto,Touring-3000 Yellow,Road,Mujer,26913.78,5,0.0,Tarjeta,134568.9
+SO43800,2025-04-21,Alcorta,Mountain-100 Silver,Mountain,Hombre,112747.56,5,0.0,Tarjeta,563737.8
+SO43801,2025-04-22,Devoto,Road-150 Red,Road,Mujer,117296.06,1,0.0,Efectivo,117296.06
+SO43802,2025-04-23,Caballito,Touring-3000 Yellow,Road,Mujer,119572.78,1,0.0,Tarjeta,119572.78
+SO43803,2025-04-24,Devoto,Touring-3000 Yellow,Road,Unisex,20866.47,2,0.0,Tarjeta,41732.94
+SO43804,2025-04-25,Alcorta,Road-150 Red,Road,Hombre,92388.73,1,0.0,Tarjeta,92388.73
+SO43805,2025-04-26,Caballito,Mountain-100 Silver,Mountain,Mujer,72321.16,3,0.0,Transferencia,216963.48
+SO43806,2025-04-27,Alto Palermo,Road-150 Red,Road,Mujer,89112.31,5,0.0,Tarjeta,445561.55
+SO43807,2025-04-28,Devoto,Touring-3000 Yellow,Road,Mujer,116708.45,2,0.0,Efectivo,233416.9
+SO43808,2025-04-29,Alcorta,Mountain-200 Blue,Mountain,Hombre,87243.15,1,0.0,Tarjeta,87243.15
+SO43809,2025-04-30,Alto Palermo,Mountain-200 Blue,Mountain,Mujer,102881.21,3,0.0,Efectivo,308643.63
